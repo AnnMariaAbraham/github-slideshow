@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+"He is the light and the one who leads the way"
 
 Use the left arrow to go back!
